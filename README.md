@@ -1,2 +1,2 @@
-# webdevprojectob2
+# Web dev
 CV project
