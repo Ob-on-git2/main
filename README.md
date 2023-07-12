@@ -1,2 +1,0 @@
-# Web dev
-CV project
